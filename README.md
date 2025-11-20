@@ -1,0 +1,1 @@
+BrightLight Data Analytics – Research Assignment 1 covering core concepts in databases, SQL, data processing, and data management. Students must research and handwrite answers on topics such as RDBMS, normalization, keys, joins, ETL/ELT, data governance, and modern data architectures.
